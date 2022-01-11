@@ -1,0 +1,60 @@
+*{
+    font-family:sans-serif;
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    position: relative;
+    min-height: 100vh;
+    width:100%;
+    overflow:hidden;
+    background: url(leiras.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    letter-spacing: 0.5px;    
+}
+.kiskep1{
+    width:200px;
+    height:150px;
+    float: left;
+    margin: 5px 5px 0 0;
+}
+.kiskep2{
+    float: right;
+    margin:0 0 0 5px;
+    height: 200px;
+    width: 150px;
+}
+.kontainer{
+    width:100%;
+    padding:0;
+}
+.kontainer::after{
+    display: table;
+    content: "";
+    clear: both;
+}
+h1{
+    padding-left: 200px;
+    padding-top: 10px;
+    font-size: 2.7rem;
+    color: beige;
+    text-transform: uppercase;
+    text-align: center;
+}
+.leiras{
+    padding: 20px;
+    padding-top: 40px;
+    text-align: justify;
+    width: 80%;
+}
+.leiras::after{
+    display: table;
+    content: "";
+    clear: both;
+}
+.oszlop1{
+    position:relative;
+
+}

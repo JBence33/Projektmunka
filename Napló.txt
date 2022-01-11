@@ -1,0 +1,25 @@
+Juhász Bence Péter
+
+1.nap:
+	Elkezdtem a Visual Studioban megírni a weblap htmljét csináltam hozzá egy css-t.Alapvető beállítások után megcsináltam hozzá a bootstrapet.
+	Ezek után elkészítettem a div-eket és a navigációsbárt. Ezután a footer következett amibe beleírtam a projekt tagjait.
+
+2.nap:
+	Elkészítettem az al htmleket.A navigációsbárba belehelyeztem azokat majd beleirtam a nevüket.
+	
+3.nap:
+	Navbart folytattam.Megcsináltam a css-t a navbarhoz,ezen finomítottam hozzá adtam az iconokat.Ezután megírtam a javascripttet az aljára hogy működjön a gomb funkció is.
+	Miután működött a gomb akkor lenyitottam a két aloldalt ezeknek a kinézetén állítgattam.
+4.nap: 
+	Megírtam a scriptet a navbar megnyitásához és bezárásához.Bele írtam a gombokat.A szöveget középre illesztettem beállítotam a magasságát és a színét sor törtem benne.
+5.nap:
+	A singup.html oldalnak megcsináltam a törzsét és elkezdtem ccsben formázni a backgroundját.Ezuztán a regisztrációs panelt szúrtam be és megformáztam az alakját.
+	Csináltam hozzá felhasználó,jelszó,email cím regisztráló felületet.Az eflogadás buttont megformáztam.
+6.nap:
+	A backgroundot átraktam mert nem tetszett a háttér.A még be nem fejezett elfogad gombot befejeztem margin-topot adtam hozzá hogy szebb legyen a felület.
+	Login htmlnek a törzsét bemásoltam az indexhtmlből.
+7.nap:
+	Visszatértem a signup.htmlhez mert új backgroundod állítottam be neki.Amibe tettem átláttszóságot is mert így jobban tetszett.Ezután megcsináltam az inputoknak a kinézetét is.
+	Egy új hátteret állítottam be az egész oldalnak.
+8.nap:
+	A login pagenek megírtam a bejelntkező felületét. Formáztam majd beigazítottam középre.

@@ -1,0 +1,88 @@
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    background: url(beleps.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.logbox{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    width: 400px;
+    background:white;
+    border-radius: 10px;
+}
+.logbox h2{
+    text-align: center;
+    padding: 0 0 20px 0;
+    border-bottom: 1px solid silver;
+}
+.logbox form{
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+form .mezo{
+    position: relative;
+    border-bottom: 2px solid lightskyblue;
+    margin: 30px 0;
+}
+.mezo input{
+    width:100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background:none;
+    outline: none;
+}
+.felejt{
+    margin: -5px 0 20px 5px;
+    color: grey;
+    cursor: pointer;
+}
+.felejt:hover{
+    text-decoration: underline;
+}
+input[type="submit"]{
+    width:100%;
+    height:50px;
+    border: 1px solid;
+    background: lightskyblue;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+    color: whitesmoke
+}
+input[type="submit"]:hover{
+    border-color:lightskyblue;
+    transition: .5s;
+}
+.reglink{
+    margin: 30px 0;
+    text-align: center;
+    font-size:16px;
+    color: grey;
+}
+.reglink a{
+    color:lightskyblue;
+    text-decoration: none;
+}
+.reglink a:hover{
+    text-decoration: underline;
+}
+ 
+
+
+
